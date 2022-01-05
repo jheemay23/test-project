@@ -1,0 +1,68 @@
+/*style.css*/
+body{
+    margin: 0;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+h2{
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 24px;
+}
+#section1{
+    width: auto;
+    background-color: #FFDE45;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    color: #5E5050;
+    text-align: center;
+}
+#section1 img{
+    width: 419px;
+    margin-top: 34px;
+}
+.text-light{
+    font-weight: 300;
+}
+
+#section2{
+    width: auto;
+    background-color: #6C63FF;
+    padding-top: 80px;
+    padding-bottom: 0;
+    color: #fff;
+    text-align: center;
+}
+#section2 img{
+    margin-top: 50px;
+}
+
+#section3{
+    width: auto;
+    background-color: #fff;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    color: #5E5050;
+    text-align: center;
+}
+#section3 img{
+    width: 367px;
+    margin-top: 28px;
+}
+
+#footer{
+    width: auto;
+    background-color: #5E5050;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color: #fff;
+    text-align: center;
+}
+#footer h2{
+    font-size: 36px;
+}
+#footer a img{
+    width: 200px;
+}
